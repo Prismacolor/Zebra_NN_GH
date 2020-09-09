@@ -156,9 +156,9 @@ X_train, x_test = X_train.reshape((-1, num_features)), x_test.reshape((-1, num_f
 
 # building the model with multiple drop out layers to avoid overfitting
 img_model = Sequential()
-img_model.add(Dense(512, input_dim=num_features, activation='relu'))
+img_model.add(Dense(512, input_dim=num_features, activation='tanh'))
 img_model.add(Dropout(.25))
-img_model.add(Dense(225, activation='relu'))
+img_model.add(Dense(225, activation='tanh'))
 img_model.add(Dropout(.25))
 img_model.add(Dense(31, activation='softmax'))
 

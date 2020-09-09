@@ -1,0 +1,37 @@
+(tensorflow_env) C:\Zebra_NN>pip freeze
+absl-py @ file:///D:/bld/absl-py_1598382479328/work
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+certifi==2020.6.20
+gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
+google-pasta==0.2.0
+grpcio @ file:///D:/bld/grpcio_1596715990825/work
+h5py @ file:///D:/bld/h5py_1595110344611/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211549301/work
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
+mkl-service==2.3.0
+numpy @ file:///D:/bld/numpy_1597938531371/work
+olefile==0.46
+pandas @ file:///C:/ci/pandas_1598353517372/work
+Pillow @ file:///C:/ci/pillow_1594299032796/work
+protobuf==3.13.0
+pyreadline==2.1
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+scikit-learn @ file:///C:/ci/scikit-learn_1598358870446/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tensorboard==1.14.0
+tensorflow @ file:///D:/bld/tensorflow_1594833539645/work/tensorflow-1.14.0-cp36-cp36m-win_amd64.whl
+tensorflow-estimator==1.14.0
+termcolor==1.1.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
+Werkzeug==1.0.1
+wincertstore==0.2
+wrapt==1.12.1
+zipp==3.1.0
